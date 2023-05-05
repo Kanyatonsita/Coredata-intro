@@ -16,6 +16,7 @@
 		5F1E2C1729F92E2E00A074A9 /* Coredata_introTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1E2C1629F92E2E00A074A9 /* Coredata_introTests.swift */; };
 		5F1E2C2129F92E2E00A074A9 /* Coredata_introUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1E2C2029F92E2E00A074A9 /* Coredata_introUITests.swift */; };
 		5F1E2C2329F92E2E00A074A9 /* Coredata_introUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1E2C2229F92E2E00A074A9 /* Coredata_introUITestsLaunchTests.swift */; };
+		5F1E2C3029F9348100A074A9 /* ShoppingListIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1E2C2F29F9348100A074A9 /* ShoppingListIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		5F1E2C1C29F92E2E00A074A9 /* Coredata-introUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Coredata-introUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F1E2C2029F92E2E00A074A9 /* Coredata_introUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coredata_introUITests.swift; sourceTree = "<group>"; };
 		5F1E2C2229F92E2E00A074A9 /* Coredata_introUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coredata_introUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5F1E2C2F29F9348100A074A9 /* ShoppingListIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				5F1E2C0929F92E2E00A074A9 /* Persistence.swift */,
 				5F1E2C0B29F92E2E00A074A9 /* Coredata_intro.xcdatamodeld */,
 				5F1E2C0629F92E2E00A074A9 /* Preview Content */,
+				5F1E2C2F29F9348100A074A9 /* ShoppingListIView.swift */,
 			);
 			path = "Coredata-intro";
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				5F1E2C0D29F92E2E00A074A9 /* Coredata_intro.xcdatamodeld in Sources */,
 				5F1E2C0329F92E2D00A074A9 /* ContentView.swift in Sources */,
 				5F1E2C0129F92E2D00A074A9 /* Coredata_introApp.swift in Sources */,
+				5F1E2C3029F9348100A074A9 /* ShoppingListIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
